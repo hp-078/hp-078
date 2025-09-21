@@ -74,7 +74,7 @@
   <!-- LeetCode Stats -->
   <h3>🔥 LeetCode Journey</h3>
   <a href="https://leetcode.com/u/hp078/">
-    <img src="https://leetcard.jacoblin.cool/hp078?theme=dark&font=Roboto&ext=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/hp078?theme=dark&font=Roboto" alt="LeetCode Stats" />
   </a>
   
   <!-- Platform Badges -->
