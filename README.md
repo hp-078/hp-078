@@ -102,7 +102,7 @@ class Developer {
   </a>
   <br><br>
   <a href="https://leetcode.com/u/hp078/">
-    <img src="https://leetcode-badge.vercel.app/api/hp078?theme=dark&extension=activity" alt="LeetCode Activity" />
+    <img src="https://leetcode.vercel.app/api?username=hp078&theme=dark" alt="LeetCode Badge" />
   </a>
   
   <!-- Platform Badges -->
@@ -150,15 +150,12 @@ class Developer {
 
 ---
 
-## 📈 Productivity & Coding Stats
+## 📈 Productivity Stats
 
 <div align="center">
   
-  <!-- WakaTime Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hp078&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff" alt="WakaTime Stats" />
-  
-  <!-- Quote of the Day -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Quote" width="100%" />
+  <!-- Coding Activity -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hp-078&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0d1117" alt="Coding Stats" width="70%" />
   
 </div>
 
@@ -194,14 +191,6 @@ class Developer {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hp-078/hp-078/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hp-078/hp-078/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l26kvgni6tvanv4bwbv4x2wbwq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=00d4ff" alt="Spotify Playing" width="400" />
 </div>
 
 ---
@@ -254,26 +243,6 @@ class Developer {
 
 ---
 
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
----
-
-## 🎯 2024 Goals
-
-- 🏆 Reach **1000+** problems solved on LeetCode
-- 🌟 Contribute to **10+** open source projects  
-- 📚 Master **System Design** concepts
-- 🚀 Build **5** production-ready full-stack applications
-- 💼 Land a **Software Engineer** role at a top tech company
-- 📝 Write **50+** technical blog posts
-- 🎓 Complete **Advanced Data Structures & Algorithms** certification
-
----
-
 <div align="center">
   
   <!-- Footer -->
@@ -316,17 +285,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-2. WakaTime Setup:
-   - Sign up at wakatime.com
-   - Install WakaTime plugin in your IDE
-   - Add WakaTime API key to secrets
-   - Enable public stats sharing
-
-3. Spotify Setup:
-   - Fork spotify-github-profile repo
-   - Connect Spotify account
-   - Deploy to Vercel
-   - Update the URL with your deployment
-
-4. Make repository public and name it same as your username
+2. Make repository public and name it same as your username
 -->
