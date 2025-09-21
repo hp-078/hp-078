@@ -150,9 +150,6 @@ class Developer {
   <!-- Commits Graph -->
   <img src="https://github-readme-stats.vercel.app/api?username=hp-078&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0d1117&cache_seconds=1800&include_all_commits=true&show_owner=true" alt="Recent Activity Stats" width="70%" />
   
-  <!-- Contribution Calendar -->
-  <img src="https://ghchart.rshah.org/00D4FF/hp-078" alt="GitHub Contribution Calendar" width="100%" />
-  
 </div>
 
 ---
