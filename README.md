@@ -98,13 +98,19 @@ class Developer {
   <!-- LeetCode Stats -->
   <h3>🔥 LeetCode Journey</h3>
   <a href="https://leetcode.com/u/hp078/">
-    <img src="https://leetcard.jacoblin.cool/hp078?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcode-stats-api.herokuapp.com/hp078?theme=dark" alt="LeetCode Stats" />
   </a>
   <br><br>
   
-  <!-- Additional LeetCode Badge -->
+  <!-- Alternative LeetCode Stats -->
   <a href="https://leetcode.com/u/hp078/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fhp078&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
+    <img src="https://leetcode-badge.chungzh.cn/hp078?theme=dark" alt="LeetCode Badge" />
+  </a>
+  <br><br>
+  
+  <!-- LeetCode Ranking Badge -->
+  <a href="https://leetcode.com/u/hp078/">
+    <img src="https://img.shields.io/badge/LeetCode-hp078-orange?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/u/hp078/" alt="LeetCode Profile"/>
   </a>
   
   <!-- Platform Badges -->
