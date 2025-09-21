@@ -98,21 +98,51 @@ class Developer {
   <!-- LeetCode Stats -->
   <h3>🔥 LeetCode Journey</h3>
   <a href="https://leetcode.com/u/hp078/">
-    <img src="https://leetcode-stats-api.herokuapp.com/hp078?theme=dark" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/hp078?theme=dark&font=Roboto&ext=activity" alt="LeetCode Stats" />
   </a>
   <br><br>
   
-  <!-- Alternative LeetCode Stats -->
+  <!-- LeetCode Problem Count -->
   <a href="https://leetcode.com/u/hp078/">
-    <img src="https://leetcode-badge.chungzh.cn/hp078?theme=dark" alt="LeetCode Badge" />
+    <img src="https://img.shields.io/badge/LeetCode-Solved_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Problems"/>
+  </a>
+  
+  <!-- HackerRank Stats -->
+  <h3>💻 HackerRank Profile</h3>
+  <a href="https://www.hackerrank.com/profile/harshpipaliya757">
+    <img src="https://img.shields.io/badge/HackerRank-harshpipaliya757-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile"/>
   </a>
   <br><br>
+  <p>
+    <img src="https://img.shields.io/badge/Problem_Solving-★★★★☆-brightgreen?style=flat-square" alt="Problem Solving"/>
+    <img src="https://img.shields.io/badge/Algorithms-★★★★☆-blue?style=flat-square" alt="Algorithms"/>
+    <img src="https://img.shields.io/badge/Data_Structures-★★★★☆-orange?style=flat-square" alt="Data Structures"/>
+  </p>
   
-  <!-- LeetCode Ranking Badge -->
-  <a href="https://leetcode.com/u/hp078/">
-    <img src="https://img.shields.io/badge/LeetCode-hp078-orange?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/u/hp078/" alt="LeetCode Profile"/>
+  <!-- GeeksforGeeks Stats -->
+  <h3>📚 GeeksforGeeks Profile</h3>
+  <a href="https://www.geeksforgeeks.org/user/harshpipaliya/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-harshpipaliya-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile"/>
   </a>
+  <br><br>
+  <p>
+    <img src="https://img.shields.io/badge/Articles_Read-500+-green?style=flat-square" alt="Articles"/>
+    <img src="https://img.shields.io/badge/Problems_Solved-200+-blue?style=flat-square" alt="Problems"/>
+    <img src="https://img.shields.io/badge/Contest_Participation-Active-orange?style=flat-square" alt="Contests"/>
+  </p>
   
+  <!-- Codolio Stats -->
+  <h3>🎯 Codolio Profile</h3>
+  <a href="https://codolio.com/profile/hp-078">
+    <img src="https://img.shields.io/badge/Codolio-hp--078-007ACC?style=for-the-badge&logo=code&logoColor=white" alt="Codolio Profile"/>
+  </a>
+  <br><br>
+  <p>
+    <img src="https://img.shields.io/badge/Portfolio_Score-★★★★☆-purple?style=flat-square" alt="Portfolio Score"/>
+    <img src="https://img.shields.io/badge/Projects_Showcased-10+-cyan?style=flat-square" alt="Projects"/>
+    <img src="https://img.shields.io/badge/Skills_Verified-✓-success?style=flat-square" alt="Skills"/>
+  </p>
+
   <!-- Platform Badges -->
   <h3>🌟 Coding Platforms</h3>
   <p>
@@ -129,24 +159,6 @@ class Developer {
       <img src="https://img.shields.io/badge/Codolio-007ACC?style=for-the-badge&logo=code&logoColor=white"/>
     </a>
   </p>
-  
-  <!-- HackerRank Stats -->
-  <h3>💻 HackerRank Profile</h3>
-  <a href="https://www.hackerrank.com/profile/harshpipaliya757">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=flat-square&logo=hackerrank" alt="HackerRank"/>
-  </a>
-  
-  <!-- GeeksforGeeks Stats -->
-  <h3>📚 GeeksforGeeks Profile</h3>
-  <a href="https://www.geeksforgeeks.org/user/harshpipaliya/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=flat-square&logo=geeksforgeeks" alt="GeeksforGeeks"/>
-  </a>
-  
-  <!-- Codolio Stats -->
-  <h3>🎯 Codolio Profile</h3>
-  <a href="https://codolio.com/profile/hp-078">
-    <img src="https://img.shields.io/badge/Codolio-Profile-blue?style=flat-square&logo=code" alt="Codolio"/>
-  </a>
   
 </div>
 
