@@ -1,60 +1,42 @@
 <div align="center">
   
-  <!-- Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harsh%20Pipaliya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <!-- Clean Header -->
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&height=60&lines=Hi+there!+I'm+Harsh+Pipaliya;Full+Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
+  </h1>
   
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%A7%A0;Problem+Solver+%F0%9F%94%A5;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+  <!-- Professional Summary -->
+  <p><em>Computer Science Engineer | Problem Solver | Code Enthusiast</em></p>
   
-  <!-- Animated GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding">
-  
-  <!-- Badge Collection -->
+  <!-- Key Stats -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=hp-078&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/hp-078?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/hp-078?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
-    <img src="https://badges.pufler.dev/repos/hp-078?style=flat-square&color=red" alt="Repositories" />
-    <img src="https://badges.pufler.dev/years/hp-078?style=flat-square&color=purple" alt="Years" />
+    <img src="https://komarev.com/ghpvc/?username=hp-078&label=Profile%20Views&color=00D4FF&style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/hp-078?label=Followers&style=flat&color=00D4FF" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/hp-078?label=Stars&style=flat&color=00D4FF" alt="GitHub Stars" />
   </p>
   
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
+**Hi, I'm Harsh Pipaliya** - a passionate Computer Science Engineer from India with a strong focus on building scalable solutions and solving complex problems.
 
-```typescript
-class Developer {
-  name: string = "Harsh Pipaliya";
-  location: string = "India 🇮🇳";
-  education: string = "Computer Science Engineer";
-  currentFocus: string[] = [
-    "Full Stack Development",
-    "Competitive Programming", 
-    "System Design",
-    "Open Source Contribution"
-  ];
-  
-  dailyRoutine(): string[] {
-    return [
-      "☕ Coffee",
-      "💻 Code", 
-      "🏆 Solve Problems",
-      "📚 Learn Something New",
-      "🔁 Repeat"
-    ];
-  }
-  
-  getMotivation(): string {
-    return "Turning coffee into code, one problem at a time! ☕➡️💻";
-  }
-}
-```
+### What I Do:
+- 🚀 **Full Stack Development** - Building end-to-end web applications with modern technologies
+- 🧠 **Competitive Programming** - Solving algorithmic challenges and improving problem-solving skills
+- 🔧 **System Design** - Architecting scalable and efficient software systems
+- 🌱 **Continuous Learning** - Always exploring new technologies and best practices
 
-<br clear="both">
+### Current Focus:
+- Enhancing my expertise in **React**, **Node.js**, and **Python**
+- Mastering **Data Structures and Algorithms**
+- Contributing to **Open Source** projects
+- Building portfolio projects that make a real impact
+
+### Philosophy:
+*"Code is not just about solving problems; it's about creating solutions that make a difference."*
 
 ---
 
