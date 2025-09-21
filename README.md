@@ -113,9 +113,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hp-078&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true&custom_title=Contribution%20Activity&area=true&theme=github-compact" alt="GitHub Activity Graph" width="100%" />
   
   <!-- Trophy -->
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=hp-078&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophy" />
-  </div>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=hp-078&theme=algolia&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophy" />
+  </p>
   
 </div>
 
