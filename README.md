@@ -127,28 +127,31 @@ class Developer {
 <div align="center">
   
   <!-- GitHub Stats Grid -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hp-078&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hp-078&layout=compact&hide_border=true&title_color=00D4FF&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hp-078&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0d1117&cache_seconds=1800&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hp-078&layout=compact&hide_border=true&title_color=00D4FF&text_color=ffffff&bg_color=0d1117&langs_count=8&cache_seconds=1800&card_width=400" alt="Top Languages" width="48%" />
   
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hp-078&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=ffffff" alt="GitHub Streak" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hp-078&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=ffffff&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="70%" />
   
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hp-078&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hp-078&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true&custom_title=Contribution%20Activity&area=true&theme=github-compact" alt="GitHub Activity Graph" width="100%" />
   
   <!-- Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=hp-078&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hp-078&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophy" />
   
 </div>
 
 ---
 
-## 📈 Productivity Stats
+## 📈 Recent GitHub Activity
 
 <div align="center">
   
-  <!-- Coding Activity -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hp-078&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0d1117" alt="Coding Stats" width="70%" />
+  <!-- Commits Graph -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hp-078&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0d1117&cache_seconds=1800&include_all_commits=true&show_owner=true" alt="Recent Activity Stats" width="70%" />
+  
+  <!-- Contribution Calendar -->
+  <img src="https://ghchart.rshah.org/00D4FF/hp-078" alt="GitHub Contribution Calendar" width="100%" />
   
 </div>
 
