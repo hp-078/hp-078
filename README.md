@@ -98,11 +98,13 @@ class Developer {
   <!-- LeetCode Stats -->
   <h3>🔥 LeetCode Journey</h3>
   <a href="https://leetcode.com/u/hp078/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=hp078&theme=dark" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/hp078?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
   </a>
   <br><br>
+  
+  <!-- Additional LeetCode Badge -->
   <a href="https://leetcode.com/u/hp078/">
-    <img src="https://leetcode.vercel.app/api?username=hp078&theme=dark" alt="LeetCode Badge" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fhp078&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
   </a>
   
   <!-- Platform Badges -->
@@ -122,8 +124,23 @@ class Developer {
     </a>
   </p>
   
-  <!-- Coding Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hp-078&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0d1117" alt="Coding Stats" width="400" />
+  <!-- HackerRank Stats -->
+  <h3>💻 HackerRank Profile</h3>
+  <a href="https://www.hackerrank.com/profile/harshpipaliya757">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=flat-square&logo=hackerrank" alt="HackerRank"/>
+  </a>
+  
+  <!-- GeeksforGeeks Stats -->
+  <h3>📚 GeeksforGeeks Profile</h3>
+  <a href="https://www.geeksforgeeks.org/user/harshpipaliya/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=flat-square&logo=geeksforgeeks" alt="GeeksforGeeks"/>
+  </a>
+  
+  <!-- Codolio Stats -->
+  <h3>🎯 Codolio Profile</h3>
+  <a href="https://codolio.com/profile/hp-078">
+    <img src="https://img.shields.io/badge/Codolio-Profile-blue?style=flat-square&logo=code" alt="Codolio"/>
+  </a>
   
 </div>
 
@@ -156,28 +173,6 @@ class Developer {
   
   <!-- Coding Activity -->
   <img src="https://github-readme-stats.vercel.app/api?username=hp-078&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0d1117" alt="Coding Stats" width="70%" />
-  
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-  
-  <a href="https://github.com/hp-078/LeetTrack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hp-078&repo=LeetTrack&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/hp-078/Inventory-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hp-078&repo=Inventory-Management-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff" />
-  </a>
-  
-  <a href="https://github.com/hp-078/HostelHUB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hp-078&repo=HostelHUB&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/hp-078/Practicals_Full_-Stack_Development">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hp-078&repo=Practicals_Full_-Stack_Development&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff" />
-  </a>
   
 </div>
 
