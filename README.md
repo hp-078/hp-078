@@ -26,16 +26,15 @@
 ### What I Do:
 - 🚀 **Full Stack Development** - Building end-to-end web applications with modern technologies
 - 🧠 **Competitive Programming** - Solving algorithmic challenges and improving problem-solving skills
-- 🔧 **System Design** - Architecting scalable and efficient software systems
 - 🌱 **Continuous Learning** - Always exploring new technologies and best practices
 
 ### Current Focus:
 - Enhancing my expertise in **React**, **Node.js**, and **Python**
 - Mastering **Data Structures and Algorithms**
 - Contributing to **Open Source** projects
-- Building portfolio projects that make a real impact
 
-### Philosophy:
+
+
 *"Code is not just about solving problems; it's about creating solutions that make a difference."*
 
 ---
@@ -46,27 +45,22 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,java,typescript,go" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,java,python,typescript" />
 </p>
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
 </p>
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
 </p>
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,bash,vscode" />
-</p>
-
-### Currently Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=rust,graphql,redis,nginx,terraform" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 </div>
@@ -182,14 +176,6 @@
     <a href="https://codolio.com/profile/hp-078">
       <img src="https://img.shields.io/badge/Codolio-007ACC?style=for-the-badge&logo=code&logoColor=white"/>
     </a>
-  </p>
-  
-  <!-- GitHub Stats -->
-  <p>
-    <img src="https://badges.pufler.dev/visits/hp-078/hp-078?style=flat-square&color=black&logo=github" alt="Profile visits" />
-    <img src="https://badges.pufler.dev/years/hp-078?style=flat-square&color=blue&logo=github" alt="Years Badge"/>
-    <img src="https://badges.pufler.dev/repos/hp-078?style=flat-square&color=red&logo=github" alt="Repositories Badge"/>
-    <img src="https://badges.pufler.dev/gists/hp-078?style=flat-square&color=yellow&logo=github" alt="Gists Badge"/>
   </p>
   
 </div>
