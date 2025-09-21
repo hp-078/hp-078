@@ -113,7 +113,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hp-078&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true&custom_title=Contribution%20Activity&area=true&theme=github-compact" alt="GitHub Activity Graph" width="100%" />
   
   <!-- Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=hp-078&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophy" />
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=hp-078&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophy" />
+  </div>
   
 </div>
 
@@ -148,17 +150,11 @@
   
   <!-- Social Media -->
   <p>
-    <a href="https://linkedin.com/in/harsh-pipaliya">
+    <a href="https://www.linkedin.com/in/harsh-pipaliya-/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://twitter.com/harsh_pipaliya">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
     <a href="mailto:harshpipaliya757@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://discord.gg/hp078">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
   </p>
   
