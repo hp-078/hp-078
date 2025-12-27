@@ -66,18 +66,18 @@
 </div>
 
 ---
-
+<!--
 ## 🏆 Competitive Programming Stats
 
 <div align="center">
   
-  <!-- LeetCode Stats -->
+  
   <h3>🔥 LeetCode Journey</h3>
   <a href="https://leetcode.com/u/hp078/">
     <img src="https://leetcard.jacoblin.cool/hp078?theme=dark&font=Roboto" alt="LeetCode Stats" />
   </a>
   
-  <!-- Platform Badges -->
+  
   <h3>🌟 Coding Platforms</h3>
   <p>
     <a href="https://leetcode.com/u/hp078/">
@@ -95,8 +95,9 @@
   </p>
   
 </div>
-
+-->
 ---
+
 
 ## 📊 GitHub Analytics
 
