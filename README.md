@@ -129,22 +129,14 @@
 
 ---
 
-## 🎮 Contribution Games
+## 🚀 GitHub Space Shooter
 
 <div align="center">
 
-### 🐍 Snake Animation
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hp-078/hp-078/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hp-078/hp-078/output/github-contribution-grid-snake.svg">
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/hp-078/hp-078/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+<img src="./assets/space-shooter.gif" alt="GitHub Space Shooter Game" width="100%" />
 
-<br><br>
-
-### 🚀 Space Shooter
-<img src="./assets/space-shooter.gif" alt="Space Shooter Game" width="100%" />
-<p><em>An interactive space shooter generated from my GitHub activity</em></p>
+<p><em>🎮 An epic space shooter game generated from my GitHub contributions!</em></p>
+<p><strong>Destroy asteroids, dodge enemies, and watch my coding journey come to life!</strong></p>
 
 </div>
 
