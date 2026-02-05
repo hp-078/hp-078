@@ -145,6 +145,15 @@
 
 ---
 
+## 🎮 GitHub Space Shooter
+
+<div align="center">
+  <img src="./assets/space-shooter.gif" alt="Space Shooter Game" width="100%" />
+  <p><em>A space shooter game generated from my GitHub contributions!</em></p>
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
