@@ -109,15 +109,15 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=hp-078&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0d1117&cache_seconds=1800&include_all_commits=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hp-078&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hp-078&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0d1117&include_all_commits=true&show=reviews,discussions_started" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=hp-078&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=00D4FF&currStreakNum=ffffff&dates=ffffff" alt="GitHub Streak" width="49%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hp-078&layout=compact&hide_border=true&title_color=00D4FF&text_color=ffffff&bg_color=0d1117&langs_count=8&cache_seconds=1800" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hp-078&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true&area=true&height=200" alt="Contribution Graph" width="49%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hp-078&layout=compact&hide_border=true&title_color=00D4FF&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hp-078&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="49%" />
   
   <br><br>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=hp-078&theme=algolia&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hp-078&theme=algolia&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true&rank=-C,-?" alt="GitHub Trophies" />
   
 </div>
 
