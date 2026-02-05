@@ -21,64 +21,76 @@
 
 ## 👨‍💻 About Me
 
-**Hi, I'm Harsh Pipaliya** - a passionate Computer Science Engineer from India with a strong focus on building scalable solutions and solving complex problems.
+**Hi, I'm Harsh Pipaliya** - a passionate Computer Science Engineer from India specializing in full-stack development and competitive programming.
 
-### What I Do:
-- 🚀 **Full Stack Development** - Building end-to-end web applications with modern technologies
-- 🧠 **Competitive Programming** - Solving algorithmic challenges and improving problem-solving skills
-- 🌱 **Continuous Learning** - Always exploring new technologies and best practices
+### 🚀 What I Do:
+- Building scalable web applications with modern JavaScript frameworks
+- Solving algorithmic challenges on competitive programming platforms
+- Contributing to open-source projects and learning new technologies
 
-### Current Focus:
-- Enhancing my expertise in **React**, **Node.js**, and **Python**
-- Mastering **Data Structures and Algorithms**
-- Contributing to **Open Source** projects
+### 🎯 Current Focus:
+- Mastering **React.js**, **Node.js**, and **Python**
+- Advancing in **Data Structures & Algorithms**
+- System design and scalable architecture patterns
 
-
-
-*"Code is not just about solving problems; it's about creating solutions that make a difference."*
+### 💡 Philosophy:
+*"Quality code isn't just about working solutions—it's about creating maintainable, efficient systems that solve real problems."*
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Technology Stack
 
 <div align="center">
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,java,python,typescript" />
-</p>
+<table>
+<tr>
+<td align="center" width="50%">
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
-</p>
+**Languages**
 
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,java" />
 
-### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
+</td>
+<td align="center" width="50%">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
+
+</td>
+<td align="center">
+
+**Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
-<!--
-## 🏆 Competitive Programming Stats
+
+## 🏆 Competitive Programming
 
 <div align="center">
   
-  
-  <h3>🔥 LeetCode Journey</h3>
   <a href="https://leetcode.com/u/hp078/">
-    <img src="https://leetcard.jacoblin.cool/hp078?theme=dark&font=Roboto" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/hp078?theme=dark&font=Roboto" alt="LeetCode Stats" width="90%" />
   </a>
   
+  <br><br>
   
-  <h3>🌟 Coding Platforms</h3>
   <p>
     <a href="https://leetcode.com/u/hp078/">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
@@ -95,7 +107,7 @@
   </p>
   
 </div>
--->
+
 ---
 
 
@@ -103,53 +115,37 @@
 
 <div align="center">
   
-  <!-- GitHub Stats Grid -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hp-078&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0d1117&cache_seconds=1800&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hp-078&layout=compact&hide_border=true&title_color=00D4FF&text_color=ffffff&bg_color=0d1117&langs_count=8&cache_seconds=1800&card_width=400" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hp-078&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0d1117&cache_seconds=1800&include_all_commits=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hp-078&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" />
   
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hp-078&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=ffffff&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hp-078&layout=compact&hide_border=true&title_color=00D4FF&text_color=ffffff&bg_color=0d1117&langs_count=8&cache_seconds=1800" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hp-078&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true&area=true&height=200" alt="Contribution Graph" width="49%" />
   
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hp-078&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true&custom_title=Contribution%20Activity&area=true&theme=github-compact" alt="GitHub Activity Graph" width="100%" />
+  <br><br>
   
-  <!-- Trophy -->
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=hp-078&theme=algolia&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophy" />
-  </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=hp-078&theme=algolia&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   
 </div>
 
 ---
 
-## 📈 Recent GitHub Activity
+## 🎮 Contribution Games
 
 <div align="center">
-  
-  <!-- Commits Graph -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hp-078&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0d1117&cache_seconds=1800&include_all_commits=true&show_owner=true" alt="Recent Activity Stats" width="70%" />
-  
-</div>
 
----
+### 🐍 Snake Animation
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hp-078/hp-078/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hp-078/hp-078/output/github-contribution-grid-snake.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/hp-078/hp-078/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
-## 🐍 Contribution Snake
+<br><br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hp-078/hp-078/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hp-078/hp-078/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hp-078/hp-078/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+### 🚀 Space Shooter
+<img src="./assets/space-shooter.gif" alt="Space Shooter Game" width="100%" />
+<p><em>An interactive space shooter generated from my GitHub activity</em></p>
 
----
-
-## 🎮 GitHub Space Shooter
-
-<div align="center">
-  <img src="./assets/space-shooter.gif" alt="Space Shooter Game" width="100%" />
-  <p><em>A space shooter game generated from my GitHub contributions!</em></p>
 </div>
 
 ---
@@ -158,7 +154,7 @@
 
 <div align="center">
   
-  <!-- Social Media -->
+  <h3>💼 Professional</h3>
   <p>
     <a href="https://www.linkedin.com/in/harsh-pipaliya-/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -166,9 +162,12 @@
     <a href="mailto:harshpipaliya757@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
+    <a href="https://github.com/hp-078">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
   </p>
   
-  <!-- Coding Platforms -->
+  <h3>🏆 Competitive Coding</h3>
   <p>
     <a href="https://leetcode.com/u/hp078/">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
@@ -190,41 +189,12 @@
 
 <div align="center">
   
-  <!-- Footer -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
   
+  **Thanks for visiting! ⭐**
+  
+  *Show some ❤️ by starring interesting repositories!*
+  
+  ![](https://hit.yhype.me/github/profile?user_id=hp-078)
+  
 </div>
-
----
-
-<!-- Setup Instructions for Dynamic Features -->
-<!--
-🔧 SETUP INSTRUCTIONS:
-
-1. Snake Animation (.github/workflows/snake.yml):
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: hp-078
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. Make repository public and name it same as your username
--->
