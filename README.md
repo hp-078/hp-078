@@ -85,12 +85,6 @@
 
 <div align="center">
   
-  <a href="https://leetcode.com/u/hp078/">
-    <img src="https://leetcard.jacoblin.cool/hp078?theme=dark&font=Roboto" alt="LeetCode Stats" width="90%" />
-  </a>
-  
-  <br><br>
-  
   <p>
     <a href="https://leetcode.com/u/hp078/">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
@@ -185,7 +179,6 @@
   
   **Thanks for visiting! ⭐**
   
-  *Show some ❤️ by starring interesting repositories!*
   
   ![](https://hit.yhype.me/github/profile?user_id=hp-078)
   
