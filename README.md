@@ -1,27 +1,22 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header"/>
+<div align="center">
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:1a1a1a&height=200&section=header&text=Harsh%20Pipaliya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer&descAlignY=75&descSize=18&descColor=888888"/>
+
+</div>
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=hp-078&color=ffffff&style=flat&label=views" />
 </div>
 
-<br/>
+---
 
-```
-  ██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗
-  ██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║
-  ███████║███████║██████╔╝███████╗███████║
-  ██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║
-  ██║  ██║██║  ██║██║  ██║███████║██║  ██║
-  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-```
+<div align="center">
 
-<h3 align="center">
-  <samp>Full Stack Developer &nbsp;·&nbsp; MERN &nbsp;·&nbsp; SQL &nbsp;·&nbsp; .NET</samp>
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Harsh+Pipaliya+%F0%9F%91%8B" alt="Cursive name" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=22&duration=2500&pause=600&color=AAAAAA&center=true&vCenter=true&width=700&height=55&lines=Full+Stack+Developer;MERN+%C2%B7+SQL+%C2%B7+.NET;Building+scalable+web+apps;Clean+code+%C2%B7+Real+solutions" alt="Roles typing" />
+
+</div>
 
 ---
 
@@ -52,6 +47,14 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,dotnet,cs&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,docker&theme=dark" />
+</div>
+
+<br/>
+
 ---
 
 ### &nbsp; Stats
@@ -74,7 +77,19 @@
 
 ---
 
-### &nbsp; Contribution
+### &nbsp; Activity
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hp-078&bg_color=0a0a0a&color=ffffff&line=444444&point=ffffff&hide_border=true&area=true&area_color=1a1a1a&custom_title=Contribution+Graph" width="95%" />
+</div>
+
+<br/>
+
+---
+
+### &nbsp; Contribution Snake
 
 <br/>
 
@@ -110,9 +125,13 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=0a0a0a)](https://www.linkedin.com/in/harsh-pipaliya-/)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-ffffff?style=flat-square&logo=gmail&logoColor=0a0a0a)](mailto:harshpipaliya757@gmail.com)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=github&logoColor=0a0a0a)](https://github.com/hp-078)
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=26&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Let's+build+something+great+together!" alt="Connect text" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0a0a0a)](https://www.linkedin.com/in/harsh-pipaliya-/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=0a0a0a)](mailto:harshpipaliya757@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=0a0a0a)](https://github.com/hp-078)
 
 </div>
 
@@ -121,10 +140,11 @@
 ---
 
 <div align="center">
-  <sub><samp>thanks for stopping by — go build something</samp></sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=20&duration=4000&pause=2000&color=555555&center=true&vCenter=true&width=500&height=40&lines=Thanks+for+visiting+%E2%80%94+go+build+something+%E2%9C%A8" alt="Footer" />
 </div>
 
-<br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=footer"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a1a,100:000000&height=80&section=footer&reversal=true"/>
+</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=hp-078)
