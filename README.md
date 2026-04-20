@@ -1,179 +1,185 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=220&section=header&text=Harsh%20Pipaliya&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=45&fontAlign=50&desc=✦%20Full%20Stack%20Developer%20✦&descAlignY=68&descSize=17&descColor=aaaaaa&descAlign=50"/>
-
+  
+  <!-- Clean Header -->
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=60&lines=Hi+there!+I'm+Harsh+Pipaliya;Full+Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
+  </h1>
+  
+  <!-- Professional Summary -->
+  <p><em>Computer Science Engineer | Problem Solver | Code Enthusiast</em></p>
+  
+  <!-- Key Stats -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=hp-078&label=Profile%20Views&color=00D4FF&style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/hp-078?label=Followers&style=flat&color=00D4FF" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/hp-078?label=Stars&style=flat&color=00D4FF" alt="GitHub Stars" />
+  </p>
+  
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+**Hi, I'm Harsh Pipaliya** - a passionate Computer Science Engineer from India specializing in full-stack development and competitive programming.
+
+### 🚀 What I Do:
+- Building scalable web applications with modern JavaScript frameworks
+- Solving algorithmic challenges on competitive programming platforms
+- Contributing to open-source projects and learning new technologies
+
+### 🎯 Current Focus:
+- Mastering **React.js**, **Node.js**, and **Python**
+- Advancing in **Data Structures & Algorithms**
+- System design and scalable architecture patterns
+
+### 💡 Philosophy:
+*"Quality code isn't just about working solutions—it's about creating maintainable, efficient systems that solve real problems."*
+
+---
+
+## 🛠️ Technology Stack
 
 <div align="center">
 
-![Typing](https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&height=65&lines=Hi+there!+I'm+Harsh+Pipaliya+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!)
+<table>
+<tr>
+<td align="center" width="50%">
 
-![Typing2](https://readme-typing-svg.demolab.com?font=Pacifico&size=20&duration=2200&pause=700&color=888888&center=true&vCenter=true&width=700&height=50&lines=MERN+Stack+%E2%80%A2+.NET+%E2%80%A2+SQL+%E2%80%A2+TypeScript;Building+clean%2C+scalable+web+apps;Open+to+opportunities+%E2%9C%A8)
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,java" />
+
+</td>
+<td align="center" width="50%">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
+
+</td>
+<td align="center">
+
+**Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br/>
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+  
+  <p>
+    <a href="https://leetcode.com/u/hp078/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+    </a>
+    <a href="https://www.hackerrank.com/profile/harshpipaliya757">
+      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+    </a>
+    <a href="https://www.geeksforgeeks.org/user/harshpipaliya/">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+    </a>
+    <a href="https://codolio.com/profile/hp-078">
+      <img src="https://img.shields.io/badge/Codolio-007ACC?style=for-the-badge&logo=code&logoColor=white"/>
+    </a>
+  </p>
+  
+</div>
+
+---
+
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hp-078&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0d1117&include_all_commits=true&show=reviews,discussions_started" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=hp-078&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=00D4FF&currStreakNum=ffffff&dates=ffffff" alt="GitHub Streak" width="49%" />
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hp-078&layout=compact&hide_border=true&title_color=00D4FF&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hp-078&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="49%" />
+  
+  <br><br>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=hp-078&theme=algolia&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true&rank=-C,-?" alt="GitHub Trophies" />
+  
+</div>
+
+---
+
+## 🚀 GitHub Space Shooter
+
+<div align="center">
+
+<img src="./assets/space-shooter.gif" alt="GitHub Space Shooter Game" width="100%" />
+
+<p><em>🎮 An epic space shooter game generated from my GitHub contributions!</em></p>
+<p><strong>Destroy asteroids, dodge enemies, and watch my coding journey come to life!</strong></p>
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+  <h3>💼 Professional</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/harsh-pipaliya-/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:harshpipaliya757@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://github.com/hp-078">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+  
+  <h3>🏆 Competitive Coding</h3>
+  <p>
+    <a href="https://leetcode.com/u/hp078/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+    </a>
+    <a href="https://www.hackerrank.com/profile/harshpipaliya757">
+      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+    </a>
+    <a href="https://www.geeksforgeeks.org/user/harshpipaliya/">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+    </a>
+    <a href="https://codolio.com/profile/hp-078">
+      <img src="https://img.shields.io/badge/Codolio-007ACC?style=for-the-badge&logo=code&logoColor=white"/>
+    </a>
+  </p>
+  
+</div>
 
 ---
 
 <div align="center">
-
-### ![About](https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=0&pause=0&color=FFFFFF&center=true&vCenter=true&width=200&height=40&lines=About+Me)
-
+  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  
+  **Thanks for visiting! ⭐**
+  
+  
+  ![](https://hit.yhype.me/github/profile?user_id=hp-078)
+  
 </div>
-
-<br/>
-
-<div align="center">
-
-<!--  BIO CARDS  -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hp-078&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=888888&bg_color=0d0d0d&include_all_commits=true&rank_icon=github&card_width=340" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hp-078&layout=donut&hide_border=true&title_color=ffffff&text_color=888888&bg_color=0d0d0d&langs_count=6&card_width=280" height="170"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-> ![Quote](https://readme-typing-svg.demolab.com?font=Pacifico&size=16&duration=4000&pause=2000&color=666666&center=true&vCenter=true&width=700&height=40&lines=%22Quality+code+isn't+just+working+solutions+—+it's+maintainable+systems%22)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### ![Stack](https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=0&pause=0&color=FFFFFF&center=true&vCenter=true&width=220&height=40&lines=Tech+Stack)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- ROW 1 — Frontend -->
-<img src="https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Tailwind-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=ffffff"/>
-
-<br/><br/>
-
-<!-- ROW 2 — Backend -->
-<img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Express-0d0d0d?style=for-the-badge&logo=express&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/ASP.NET-0d0d0d?style=for-the-badge&logo=dotnet&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/C%23-0d0d0d?style=for-the-badge&logo=csharp&logoColor=ffffff"/>
-
-<br/><br/>
-
-<!-- ROW 3 — Database -->
-<img src="https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/SQL Server-0d0d0d?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff"/>
-
-<br/><br/>
-
-<!-- ROW 4 — Tools -->
-<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Postman-0d0d0d?style=for-the-badge&logo=postman&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/VS Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### ![Stats](https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=0&pause=0&color=FFFFFF&center=true&vCenter=true&width=200&height=40&lines=My+Stats)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=hp-078&hide_border=true&background=0d0d0d&stroke=222222&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideNums=aaaaaa&currStreakNum=ffffff&dates=555555&sideLabels=666666" width="68%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hp-078&bg_color=0d0d0d&color=aaaaaa&line=555555&point=ffffff&hide_border=true&area=true&area_color=1e1e1e&custom_title=📈+Contribution+Graph" width="95%"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### ![Snake](https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=0&pause=0&color=FFFFFF&center=true&vCenter=true&width=340&height=40&lines=Contribution+Snake)
-
-</div>
-
-<br/>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hp-078/hp-078/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hp-078/hp-078/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/hp-078/hp-078/output/github-contribution-grid-snake-dark.svg" width="92%"/>
-</picture>
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### ![Trophies](https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=0&pause=0&color=FFFFFF&center=true&vCenter=true&width=220&height=40&lines=Trophies)
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=hp-078&theme=onestar&column=7&margin-w=8&no-bg=true&no-frame=true&rank=-C,-?"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### ![Connect](https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=0&pause=0&color=FFFFFF&center=true&vCenter=true&width=240&height=40&lines=Let's+Connect)
-
-<br/>
-
-![ConnectLine](https://readme-typing-svg.demolab.com?font=Pacifico&size=18&duration=3000&pause=1500&color=888888&center=true&vCenter=true&width=600&height=40&lines=Open+to+collaborations+%26+new+opportunities+✨;Let's+build+something+amazing+together!+🚀)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/harsh-pipaliya-/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:harshpipaliya757@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/hp-078)
-
-<br/><br/>
-
-![Footer](https://readme-typing-svg.demolab.com?font=Pacifico&size=18&duration=4000&pause=2000&color=444444&center=true&vCenter=true&width=600&height=40&lines=Thanks+for+visiting+my+profile!+⭐;Star+something+if+it+helped+you!+🙌)
-
-</div>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=120&section=footer&reversal=false"/>
-</div>
-
-![](https://hit.yhype.me/github/profile?user_id=hp-078)
