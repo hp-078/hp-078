@@ -1,185 +1,114 @@
 <div align="center">
-  
-  <!-- Clean Header -->
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=60&lines=Hi+there!+I'm+Harsh+Pipaliya;Full+Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
-  </h1>
-  
-  <!-- Professional Summary -->
-  <p><em>Computer Science Engineer | Problem Solver | Code Enthusiast</em></p>
-  
-  <!-- Key Stats -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=hp-078&label=Profile%20Views&color=00D4FF&style=flat" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/hp-078?label=Followers&style=flat&color=00D4FF" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/hp-078?label=Stars&style=flat&color=00D4FF" alt="GitHub Stars" />
-  </p>
-  
-</div>
 
----
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   > HARSH PIPALIYA                                   ║
+║   > FULL STACK DEVELOPER                             ║
+║   > BUILDING THE WEB, ONE COMMIT AT A TIME_          ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
 
-## 👨‍💻 About Me
-
-**Hi, I'm Harsh Pipaliya** - a passionate Computer Science Engineer from India specializing in full-stack development and competitive programming.
-
-### 🚀 What I Do:
-- Building scalable web applications with modern JavaScript frameworks
-- Solving algorithmic challenges on competitive programming platforms
-- Contributing to open-source projects and learning new technologies
-
-### 🎯 Current Focus:
-- Mastering **React.js**, **Node.js**, and **Python**
-- Advancing in **Data Structures & Algorithms**
-- System design and scalable architecture patterns
-
-### 💡 Philosophy:
-*"Quality code isn't just about working solutions—it's about creating maintainable, efficient systems that solve real problems."*
-
----
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,java" />
-
-</td>
-<td align="center" width="50%">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
-
-</td>
-<td align="center">
-
-**Tools & DevOps**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
-
-</td>
-</tr>
-</table>
+[![Profile Views](https://komarev.com/ghpvc/?username=hp-078&label=PROFILE+VIEWS&color=ffffff&style=flat&labelColor=000000)](https://github.com/hp-078)
+[![GitHub Followers](https://img.shields.io/github/followers/hp-078?label=FOLLOWERS&style=flat&color=ffffff&labelColor=000000)](https://github.com/hp-078)
 
 </div>
 
 ---
 
-## 🏆 Competitive Programming
+## `$ whoami`
 
-<div align="center">
-  
-  <p>
-    <a href="https://leetcode.com/u/hp078/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-    </a>
-    <a href="https://www.hackerrank.com/profile/harshpipaliya757">
-      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-    </a>
-    <a href="https://www.geeksforgeeks.org/user/harshpipaliya/">
-      <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-    </a>
-    <a href="https://codolio.com/profile/hp-078">
-      <img src="https://img.shields.io/badge/Codolio-007ACC?style=for-the-badge&logo=code&logoColor=white"/>
-    </a>
-  </p>
-  
-</div>
+```yaml
+name        : Harsh Pipaliya
+role        : Full Stack Developer
+location    : India
+focus       : MERN Stack · SQL · .NET
+philosophy  : "Ship clean code. Solve real problems."
+status      : Open to opportunities
+```
 
 ---
 
+## `$ cat tech-stack.json`
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hp-078&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0d1117&include_all_commits=true&show=reviews,discussions_started" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=hp-078&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=00D4FF&currStreakNum=ffffff&dates=ffffff" alt="GitHub Streak" width="49%" />
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hp-078&layout=compact&hide_border=true&title_color=00D4FF&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hp-078&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="49%" />
-  
-  <br><br>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=hp-078&theme=algolia&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true&rank=-C,-?" alt="GitHub Trophies" />
-  
-</div>
+```json
+{
+  "frontend"  : ["React.js", "Next.js", "TypeScript", "HTML5", "CSS3", "Tailwind CSS"],
+  "backend"   : ["Node.js", "Express.js", "ASP.NET", "C#", "REST APIs"],
+  "database"  : ["MongoDB", "MySQL", "PostgreSQL", "SQL Server"],
+  "languages" : ["JavaScript", "TypeScript", "C#", "Python", "C++"],
+  "tools"     : ["Git", "GitHub", "Postman", "VS Code", "Linux"]
+}
+```
 
 ---
 
-## 🚀 GitHub Space Shooter
+## `$ git log --oneline --graph`
 
 <div align="center">
 
-<img src="./assets/space-shooter.gif" alt="GitHub Space Shooter Game" width="100%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hp-078&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=999999&bg_color=0d0d0d&include_all_commits=true" alt="GitHub Stats" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=hp-078&hide_border=true&background=0d0d0d&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=999999&sideLabels=999999" alt="GitHub Streak" width="49%" />
 
-<p><em>🎮 An epic space shooter game generated from my GitHub contributions!</em></p>
-<p><strong>Destroy asteroids, dodge enemies, and watch my coding journey come to life!</strong></p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hp-078&layout=compact&hide_border=true&title_color=ffffff&text_color=999999&bg_color=0d0d0d&langs_count=8" alt="Top Languages" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hp-078&bg_color=0d0d0d&color=ffffff&line=555555&point=ffffff&hide_border=true&area=true&area_color=222222&custom_title=Contribution+Graph" alt="Contribution Graph" width="49%" />
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## `$ cat achievements.log`
 
 <div align="center">
-  
-  <h3>💼 Professional</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/harsh-pipaliya-/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:harshpipaliya757@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://github.com/hp-078">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </p>
-  
-  <h3>🏆 Competitive Coding</h3>
-  <p>
-    <a href="https://leetcode.com/u/hp078/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-    </a>
-    <a href="https://www.hackerrank.com/profile/harshpipaliya757">
-      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-    </a>
-    <a href="https://www.geeksforgeeks.org/user/harshpipaliya/">
-      <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-    </a>
-    <a href="https://codolio.com/profile/hp-078">
-      <img src="https://img.shields.io/badge/Codolio-007ACC?style=for-the-badge&logo=code&logoColor=white"/>
-    </a>
-  </p>
-  
+
+<img src="https://github-profile-trophy.vercel.app/?username=hp-078&theme=onestar&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true&rank=-C,-?" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## `$ ls -la projects/`
+
+> 🔧 *Pinned repositories below — check them out!*
+
+---
+
+## `$ ./snake.sh`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hp-078/hp-078/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hp-078/hp-078/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/hp-078/hp-078/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+*↑ My GitHub contributions — eaten alive by a snake*
+
+</div>
+
+---
+
+## `$ contact --list`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/harsh-pipaliya-/)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:harshpipaliya757@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/hp-078)
+
 </div>
 
 ---
 
 <div align="center">
-  
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-  
-  **Thanks for visiting! ⭐**
-  
-  
-  ![](https://hit.yhype.me/github/profile?user_id=hp-078)
-  
+
+```
+// thanks for scrolling  //
+// now go build something //
+```
+
+![](https://hit.yhype.me/github/profile?user_id=hp-078)
+
 </div>
