@@ -1,185 +1,59 @@
-<div align="center">
-  
-  <!-- Clean Header -->
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=60&lines=Hi+there!+I'm+Harsh+Pipaliya;Full+Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
-  </h1>
-  
-  <!-- Professional Summary -->
-  <p><em>Computer Science Engineer | Problem Solver | Code Enthusiast</em></p>
-  
-  <!-- Key Stats -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=hp-078&label=Profile%20Views&color=00D4FF&style=flat" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/hp-078?label=Followers&style=flat&color=00D4FF" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/hp-078?label=Stars&style=flat&color=00D4FF" alt="GitHub Stars" />
-  </p>
-  
-</div>
+<h1 align="center">Harsh Pipaliya</h1>
+
+<p align="center">
+  Full Stack Developer · B.Tech CSE @ Charusat · CGPA 8.7
+</p>
+
+<p align="center">
+  <a href="mailto:harshpipaliya757@gmail.com">harshpipaliya757@gmail.com</a> ·
+  <a href="https://linkedin.com/in/harsh-pipaliya-">LinkedIn</a> ·
+  <a href="https://github.com/hp-078">GitHub</a> ·
+  <a href="https://leetcode.com/u/hp078">LeetCode</a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## stack
 
-**Hi, I'm Harsh Pipaliya** - a passionate Computer Science Engineer from India specializing in full-stack development and competitive programming.
-
-### 🚀 What I Do:
-- Building scalable web applications with modern JavaScript frameworks
-- Solving algorithmic challenges on competitive programming platforms
-- Contributing to open-source projects and learning new technologies
-
-### 🎯 Current Focus:
-- Mastering **React.js**, **Node.js**, and **Python**
-- Advancing in **Data Structures & Algorithms**
-- System design and scalable architecture patterns
-
-### 💡 Philosophy:
-*"Quality code isn't just about working solutions—it's about creating maintainable, efficient systems that solve real problems."*
+`JavaScript` `C++` `Java` `Python` `SQL`  
+`React` `Node.js` `Express` `MongoDB` `MySQL` `PostgreSQL`  
+`LangGraph` `Git` `Postman`
 
 ---
 
-## 🛠️ Technology Stack
+## projects
 
-<div align="center">
+**[Jay Jalaram Electricals](https://github.com/hp-078/jay-jalaram-electricals)** — MERN · JWT · RBAC  
+Digital billing system replacing paper records. GST-compliant invoice generation, role-based access for Admin, Employee, and Client.
 
-<table>
-<tr>
-<td align="center" width="50%">
+**[FreshTrack](https://github.com/hp-078/freshtrack)** — MERN · Recharts · Framer Motion  
+Food inventory tracker for retail. Expiry-based discounts, donation tracking, and waste analytics dashboard.
 
-**Languages**
+**[Multi-Agent Research Generator](https://github.com/hp-078/multi-agent-research)** — Python · LangGraph · LLMs  
+5-agent pipeline (Researcher, Writer, Critic, Editor, Supervisor) for automated academic paper generation from any topic.
 
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,java" />
-
-</td>
-<td align="center" width="50%">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
-
-</td>
-<td align="center">
-
-**Tools & DevOps**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
-
-</td>
-</tr>
-</table>
-
-</div>
+**[EaseGit CLI](https://github.com/hp-078/easegit)** — Node.js · npm  
+Open-source CLI for automatic Git safety checkpoints. 1,000+ downloads on npm.
 
 ---
 
-## 🏆 Competitive Programming
+## achievements
 
-<div align="center">
-  
-  <p>
-    <a href="https://leetcode.com/u/hp078/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-    </a>
-    <a href="https://www.hackerrank.com/profile/harshpipaliya757">
-      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-    </a>
-    <a href="https://www.geeksforgeeks.org/user/harshpipaliya/">
-      <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-    </a>
-    <a href="https://codolio.com/profile/hp-078">
-      <img src="https://img.shields.io/badge/Codolio-007ACC?style=for-the-badge&logo=code&logoColor=white"/>
-    </a>
-  </p>
-  
-</div>
+- 🥇 Winner — PyQuest Hackathon, Charusat 2025
+- 🥇 Winner — Technical Treasure Hunt (DSA), Charusat 2024
+- 250+ problems solved across LeetCode, HackerRank, and GeeksforGeeks
 
 ---
 
+## certifications
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hp-078&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0d1117&include_all_commits=true&show=reviews,discussions_started" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=hp-078&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=00D4FF&currStreakNum=ffffff&dates=ffffff" alt="GitHub Streak" width="49%" />
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hp-078&layout=compact&hide_border=true&title_color=00D4FF&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hp-078&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="49%" />
-  
-  <br><br>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=hp-078&theme=algolia&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true&rank=-C,-?" alt="GitHub Trophies" />
-  
-</div>
+Web Designing — Great Learning · DSA using Java — NPTEL · Getting Started with AI on Jetson Nano — NVIDIA · Problem Solving — HackerRank
 
 ---
 
-## 🚀 GitHub Space Shooter
+## stats
 
-<div align="center">
-
-<img src="./assets/space-shooter.gif" alt="GitHub Space Shooter Game" width="100%" />
-
-<p><em>🎮 An epic space shooter game generated from my GitHub contributions!</em></p>
-<p><strong>Destroy asteroids, dodge enemies, and watch my coding journey come to life!</strong></p>
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-  
-  <h3>💼 Professional</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/harsh-pipaliya-/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:harshpipaliya757@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://github.com/hp-078">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </p>
-  
-  <h3>🏆 Competitive Coding</h3>
-  <p>
-    <a href="https://leetcode.com/u/hp078/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-    </a>
-    <a href="https://www.hackerrank.com/profile/harshpipaliya757">
-      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-    </a>
-    <a href="https://www.geeksforgeeks.org/user/harshpipaliya/">
-      <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-    </a>
-    <a href="https://codolio.com/profile/hp-078">
-      <img src="https://img.shields.io/badge/Codolio-007ACC?style=for-the-badge&logo=code&logoColor=white"/>
-    </a>
-  </p>
-  
-</div>
-
----
-
-<div align="center">
-  
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-  
-  **Thanks for visiting! ⭐**
-  
-  
-  ![](https://hit.yhype.me/github/profile?user_id=hp-078)
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hp-078&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=999999&bg_color=0d0d0d&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hp-078&layout=compact&hide_border=true&title_color=ffffff&text_color=999999&bg_color=0d0d0d&langs_count=6" width="48%" />
+</p>
