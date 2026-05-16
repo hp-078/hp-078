@@ -1,53 +1,177 @@
 <div align="center">
+  
+  <!-- Clean Header -->
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=60&lines=Hi+there!+I'm+Harsh+Pipaliya;Full+Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
+  </h1>
+  
+  <!-- Professional Summary -->
+  <p><em>Computer Science Engineer | Problem Solver | Code Enthusiast</em></p>
+  
+  <!-- Key Stats -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=hp-078&label=Profile%20Views&color=00D4FF&style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/hp-078?label=Followers&style=flat&color=00D4FF" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/hp-078?label=Stars&style=flat&color=00D4FF" alt="GitHub Stars" />
+  </p>
+  
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=120&section=header&text=Harsh%20Pipaliya&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver+%7C+250%2B+DSA+Problems;AI+%2F+Multi-Agent+Systems+Builder;Open+Source+%7C+1%2C000%2B+npm+Downloads" alt="Typing SVG" />
+## 👨‍💻 About Me
+
+**Hi, I'm Harsh Pipaliya** - a passionate Computer Science Engineer from India specializing in full-stack development and competitive programming.
+
+### 🚀 What I Do:
+- Building scalable web applications with modern JavaScript frameworks
+- Solving algorithmic challenges on competitive programming platforms
+- Contributing to open-source projects and learning new technologies
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,java" />
+
+</td>
+<td align="center" width="50%">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
+
+</td>
+<td align="center">
+
+**Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## `> whoami`
+## 🏆 Competitive Programming
 
-B.Tech CSE student at **Charusat University** (CGPA 8.7) — I build full-stack products, design agentic AI pipelines, and grind DSA. Not a spectator. I ship things people actually use — from a billing system replacing paperwork for a real business to an npm CLI with 1,000+ downloads. Two hackathon wins. One goal: write code that matters.
-
-📍 Surat, Gujarat, India &nbsp;·&nbsp; 📬 [harshpipaliya757@gmail.com](mailto:harshpipaliya757@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/harsh-pipaliya-) &nbsp;·&nbsp; ⚡ [LeetCode](https://leetcode.com/u/hp078)
-
----
-
-## `> stack`
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-0d0d0d?style=flat-square&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=336791)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=ffffff)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d0d0d?style=flat-square&logo=framer&logoColor=ffffff)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0d0d0d?style=flat-square&logo=express&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=336791)
-
-**AI / Tools**
-
-![LangGraph](https://img.shields.io/badge/LangGraph-0d0d0d?style=flat-square&logo=langchain&logoColor=1C3C3C)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=F05032)
-![Postman](https://img.shields.io/badge/Postman-0d0d0d?style=flat-square&logo=postman&logoColor=FF6C37)
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=flat-square&logo=linux&logoColor=FCC624)
+<div align="center">
+  
+  <p>
+    <a href="https://leetcode.com/u/hp078/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+    </a>
+    <a href="https://www.hackerrank.com/profile/harshpipaliya757">
+      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+    </a>
+    <a href="https://www.geeksforgeeks.org/user/harshpipaliya/">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+    </a>
+    <a href="https://codolio.com/profile/hp-078">
+      <img src="https://img.shields.io/badge/Codolio-007ACC?style=for-the-badge&logo=code&logoColor=white"/>
+    </a>
+  </p>
+  
+</div>
 
 ---
 
-## `> ./achievements`
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hp-078&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0d1117&include_all_commits=true&show=reviews,discussions_started" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=hp-078&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=00D4FF&currStreakNum=ffffff&dates=ffffff" alt="GitHub Streak" width="49%" />
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hp-078&layout=compact&hide_border=true&title_color=00D4FF&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hp-078&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="49%" />
+  
+  <br><br>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=hp-078&theme=algolia&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true&rank=-C,-?" alt="GitHub Trophies" />
+  
+</div>
+
+---
+
+## 🚀 GitHub Space Shooter
+
+<div align="center">
+
+<img src="./assets/space-shooter.gif" alt="GitHub Space Shooter Game" width="100%" />
+
+<p><em>🎮 An epic space shooter game generated from my GitHub contributions!</em></p>
+<p><strong>Destroy asteroids, dodge enemies, and watch my coding journey come to life!</strong></p>
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+  <h3>💼 Professional</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/harsh-pipaliya-/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:harshpipaliya757@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://github.com/hp-078">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+  
+  <h3>🏆 Competitive Coding</h3>
+  <p>
+    <a href="https://leetcode.com/u/hp078/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+    </a>
+    <a href="https://www.hackerrank.com/profile/harshpipaliya757">
+      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+    </a>
+    <a href="https://www.geeksforgeeks.org/user/harshpipaliya/">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+    </a>
+    <a href="https://codolio.com/profile/hp-078">
+      <img src="https://img.shields.io/badge/Codolio-007ACC?style=for-the-badge&logo=code&logoColor=white"/>
+    </a>
+  </p>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  
+  **Thanks for visiting! ⭐**
+  
+  
+  ![](https://hit.yhype.me/github/profile?user_id=hp-078)
+  
+</div>
